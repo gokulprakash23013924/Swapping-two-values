@@ -33,7 +33,8 @@ print("Swapped values are:",a,b)
 
 ## output
 
-![output](/swapoutput.png)
+![image](https://github.com/gokulprakash23013924/Swapping-two-values/assets/150231472/3b96c91d-18ca-4faf-82ae-005bf95fec78)
+
 
 
 
